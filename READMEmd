@@ -1,0 +1,2 @@
+# Chess Board 
+It uses numpy and opencv to construct an 8x8 chess board
